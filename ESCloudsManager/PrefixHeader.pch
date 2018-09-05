@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  ESCloudsManager
+//
+//  Created by 孙滢贺 on 16/7/15.
+//  Copyright © 2016年 ESClouds. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "common.h"
+#import "SVProgressHUD.h"
+#import "XSHttpTool.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+
+#endif /* PrefixHeader_pch */
